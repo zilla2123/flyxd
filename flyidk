@@ -1,0 +1,13 @@
+Fly1.Name = "Fly1"
+Fly1.Parent = Display_Main_Frame
+Fly1.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Fly1.BorderColor3 = Color3.fromRGB(0, 0, 0)
+Fly1.Position = UDim2.new(0.307702988, 0, 0.0641951337, 0)
+Fly1.Size = UDim2.new(0.205630973, 0, 0.101785749, 0)
+Fly1.Font = Enum.Font.SourceSansSemibold
+Fly1.Text = "FLY (TOGGLE X)"
+Fly1.TextColor3 = Color3.fromRGB(255, 255, 255)
+Fly1.TextSize = 16.000
+Fly1.TextStrokeColor3 = Color3.fromRGB(255, 255, 255)
+Fly1.TextStrokeTransparency = 0.900
+Fly1.TextWrapped = true
